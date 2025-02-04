@@ -1,0 +1,8 @@
+{
+  "schema": "./src/migration/schema/index.ts",
+  "driver": "pglite",
+  "dialect": "postgresql",
+  "connectionString": "update_with_ur_database_url",
+  "url": "update_with_ur_database_url",
+  "database": "postgres"
+}
