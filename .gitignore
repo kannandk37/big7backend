@@ -3,3 +3,12 @@ node_modules/
 
 # generated files
 dist
+
+# environment files
+.env
+
+# migration file
+drizzle
+
+# vscode files
+.vscode
